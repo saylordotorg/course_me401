@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME401: Dynamic Systems & Controls"
+course_description: "An exploration of the behavior of physical systems as well as the physics of individual components and the interactions between them. Topics include modeling dynamic systems, Laplace Transform Methods for Solving Differential Equations, transfer functions, stability, feedback, proportional—integral—derivative controllers, and applications of computer simulation in control."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Dynamic Systems** <span id="1"></span> 
 **Unit One will introduce dynamic systems.  Dynamic systems are
 mathematically modeled as differential equations representing various
