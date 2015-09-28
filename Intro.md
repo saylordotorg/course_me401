@@ -117,3 +117,4 @@ Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentH
 - [Unit 4](https://legacy.saylor.org/me401/Unit04/)
 - [Unit 5](https://legacy.saylor.org/me401/Unit05/)
 - [Unit 6](https://legacy.saylor.org/me401/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME401/ME401-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME401/ME401-FinalExam-Answers.html)
