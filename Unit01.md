@@ -287,7 +287,7 @@ can go to section 1.3 if you are already familiar with the math.  *
 
 -   **Reading: Wikipedia: “Laplace Transform”**
     Link: Wikipedia: [“Laplace
-    Transform”](http://www.saylor.org/site/wp-content/uploads/2013/04/ME401-1.2.2-LaplaceTransform.pdf) (PDF)  
+    Transform”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ME401-1.2.2-LaplaceTransform.pdf) (PDF)  
       
      Instructions: You should be aware of the extensive tabulations of
     Laplace transform tables compiled here and in other references
